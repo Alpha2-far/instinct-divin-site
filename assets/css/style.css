@@ -520,7 +520,7 @@ body[data-nav="dark"] .nav:not(.is-scrolled) .nav__toggle svg{color:var(--cream)
 .histoire{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr);gap:clamp(28px,5vw,64px);align-items:center}
 .histoire__media{position:relative}
 .histoire__media img{border-radius:var(--radius-l);border:1px solid var(--border-warm);
-  box-shadow:var(--shadow-m);aspect-ratio:4/3;object-fit:cover;width:100%}
+  box-shadow:var(--shadow-m);aspect-ratio:4/5;object-fit:cover;width:100%}
 .histoire__stamp{
   position:absolute;right:-18px;bottom:-18px;width:120px;height:120px;border-radius:50%;
   background:var(--cream);border:2px solid var(--gold-soft);box-shadow:var(--shadow-m);
