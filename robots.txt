@@ -1,4 +1,10 @@
 User-agent: *
 Allow: /
 
+# Sitemap officiel pour les moteurs de recherche
 Sitemap: https://instinctdivin.com/sitemap.xml
+
+# Surfaces de découverte pour modèles d'IA et agents (LLMs)
+# https://instinctdivin.com/llms.txt
+# https://instinctdivin.com/sitemap.md
+# https://instinctdivin.com/rss.xml

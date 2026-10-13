@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>INSTINCT DIVIN — Pâtisserie artisanale &amp; Formation à Cotonou</title>
+        <link>https://instinctdivin.com</link>
+        <description>Actualités, créations de gâteaux sur mesure, viennoiseries pur beurre et sessions de formation en pâtisserie et boulangerie artisanale à Cotonou, Bénin.</description>
+        <lastBuildDate>Tue, 13 Oct 2026 09:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <language>fr</language>
+        <copyright>Copyright © 2026 INSTINCT DIVIN</copyright>
+        <atom:link href="https://instinctdivin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Session 2026 : Formation professionnelle en Pâtisserie & Boulangerie à Cotonou]]></title>
+            <link>https://instinctdivin.com/formation.html</link>
+            <guid>https://instinctdivin.com/formation.html#session-2026</guid>
+            <pubDate>Tue, 13 Oct 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[Ouverture des inscriptions pour les cursus certifiants et ateliers pratiques en pâtisserie et boulangerie à l'atelier INSTINCT DIVIN à Cotonou. Formation 100% pratique en laboratoire.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Nouvelle Collection de Gâteaux d'Anniversaire & Pièces Montées sur Mesure]]></title>
+            <link>https://instinctdivin.com/#selection</link>
+            <guid>https://instinctdivin.com/#gateaux-sur-mesure</guid>
+            <pubDate>Mon, 12 Oct 2026 09:00:00 GMT</pubDate>
+            <description><![CDATA[Découvrez nos créations signatures : Forêt Noire, gâteaux personnalisés avec impression photo alimentaire, pièces montées de mariage deux étages et décors prestige. Tarifs dès 7 000 FCFA.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Viennoiseries Pur Beurre du Matin & Douceurs du Comptoir]]></title>
+            <link>https://instinctdivin.com/#carte</link>
+            <guid>https://instinctdivin.com/#viennoiseries-pur-beurre</guid>
+            <pubDate>Sun, 11 Oct 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Croissants pur beurre dorés au four (600 FCFA), pains viennois moelleux (150 FCFA), pains burger artisanaux au sésame (300 FCFA) et mignardises disponibles tous les matins dès 7h.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Service Traiteur & Cocktails : Samoussas, Pastels et Box Petits Fours]]></title>
+            <link>https://instinctdivin.com/#carte</link>
+            <guid>https://instinctdivin.com/#traiteur-cocktails</guid>
+            <pubDate>Sat, 10 Oct 2026 10:00:00 GMT</pubDate>
+            <description><![CDATA[Plateaux et box traiteur pour vos événements, cocktails d'entreprise et réceptions familiales à Cotonou : packs de samoussas, pastels dorés et box de 12 000 FCFA.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Conditions de Commande Express et Livraisons à Cotonou]]></title>
+            <link>https://instinctdivin.com/conditions-commandes.html</link>
+            <guid>https://instinctdivin.com/conditions-commandes.html#guide</guid>
+            <pubDate>Fri, 09 Oct 2026 11:00:00 GMT</pubDate>
+            <description><![CDATA[Commandez facilement vos gâteaux et douceurs via WhatsApp (+229 01 66 48 75 65). Délais de 24h à 48h selon le modèle, livraison soignée dans toute la ville de Cotonou et ses environs.]]></description>
+        </item>
+    </channel>
+</rss>
