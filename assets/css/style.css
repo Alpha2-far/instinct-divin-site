@@ -138,9 +138,19 @@ p{margin:0}
   font-size:.78rem;font-weight:800;letter-spacing:.2em;text-transform:uppercase;
   color:var(--gold-deep);
 }
-.dark .eyebrow{color:var(--gold)}
-.eyebrow::before{content:"";width:26px;height:1.5px;background:currentColor;opacity:.7}
-.eyebrow--bare::before{display:none}
+h2.eyebrow,.sec-head h2.eyebrow{
+  display:inline-flex;align-items:center;gap:10px;
+  font-size:.78rem;font-weight:800;letter-spacing:.2em;text-transform:uppercase;
+  color:var(--gold-deep);margin:0 0 14px;line-height:1.4;font-family:var(--font-sans);
+}
+.editorial-heading{
+  font-family:var(--font-display);font-size:clamp(1.9rem,4.2vw,3rem);
+  line-height:1.15;letter-spacing:-.01em;color:inherit;margin:0;font-weight:600;
+}
+.dark .editorial-heading{color:var(--cream)}
+.dark h2.eyebrow{color:var(--gold)}
+.eyebrow::before,h2.eyebrow::before{content:"";width:26px;height:1.5px;background:currentColor;opacity:.7}
+.eyebrow--bare::before,h2.eyebrow--bare::before{display:none}
 
 .display{
   font-family:var(--font-display);font-weight:600;

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>INSTINCT DIVIN — Pâtisserie artisanale &amp; Formation à Cotonou</title>
+        <title>INSTINCT DIVIN — Pâtisserie artisanale, Gâteaux &amp; Formation à Cotonou, Bénin</title>
         <link>https://instinctdivin.com</link>
         <description>Actualités, créations de gâteaux sur mesure, viennoiseries pur beurre et sessions de formation en pâtisserie et boulangerie artisanale à Cotonou, Bénin.</description>
-        <lastBuildDate>Tue, 13 Oct 2026 09:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 10:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <language>fr</language>
         <copyright>Copyright © 2026 INSTINCT DIVIN</copyright>
         <atom:link href="https://instinctdivin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Service Diaspora : Commandez des Gâteaux et Douceurs à Distance pour vos Proches au Bénin]]></title>
+            <link>https://instinctdivin.com/#contact</link>
+            <guid>https://instinctdivin.com/#service-diaspora-2026</guid>
+            <pubDate>Thu, 15 Oct 2026 09:30:00 GMT</pubDate>
+            <description><![CDATA[Pour la diaspora béninoise résidant à l'étranger (France, Canada, USA, Europe, sous-région) : commandez directement sur WhatsApp (+229 01 66 48 75 65) des gâteaux d'anniversaire personnalisés, box de mignardises et pièces montées livrés à vos proches à Cotonou, Calavi et environs. Règlement sécurisé par Mobile Money et virement.]]></description>
+        </item>
         <item>
             <title><![CDATA[Session 2026 : Formation professionnelle en Pâtisserie & Boulangerie à Cotonou]]></title>
             <link>https://instinctdivin.com/formation.html</link>
@@ -36,13 +43,6 @@
             <guid>https://instinctdivin.com/#traiteur-cocktails</guid>
             <pubDate>Sat, 10 Oct 2026 10:00:00 GMT</pubDate>
             <description><![CDATA[Plateaux et box traiteur pour vos événements, cocktails d'entreprise et réceptions familiales à Cotonou : packs de samoussas, pastels dorés et box de 12 000 FCFA.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Conditions de Commande Express et Livraisons à Cotonou]]></title>
-            <link>https://instinctdivin.com/conditions-commandes.html</link>
-            <guid>https://instinctdivin.com/conditions-commandes.html#guide</guid>
-            <pubDate>Fri, 09 Oct 2026 11:00:00 GMT</pubDate>
-            <description><![CDATA[Commandez facilement vos gâteaux et douceurs via WhatsApp (+229 01 66 48 75 65). Délais de 24h à 48h selon le modèle, livraison soignée dans toute la ville de Cotonou et ses environs.]]></description>
         </item>
     </channel>
 </rss>

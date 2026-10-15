@@ -1,73 +1,84 @@
-INSTINCT DIVIN — Pâtisserie artisanale & Formation à Cotonou
+INSTINCT DIVIN — Pâtisserie artisanale, Gâteaux sur mesure & Formation à Cotonou, Bénin
 
 Base URL: https://instinctdivin.com
 
-Start here:
-- https://instinctdivin.com/sitemap.md -> plan du site au format Markdown pour LLMs et agents
-- https://instinctdivin.com/sitemap.xml -> sitemap XML pour moteurs de recherche (Google, Bing)
-- https://instinctdivin.com/rss.xml -> flux RSS des créations, ateliers et formations
-- https://instinctdivin.com/llms.txt -> fichier d'index et contexte synthétique pour LLMs
+Surfaces de découverte IA & Moteurs:
+- https://instinctdivin.com/sitemap.md -> Plan du site complet en Markdown avec ancrages pour LLMs et agents
+- https://instinctdivin.com/sitemap.xml -> Sitemap XML officiel pour moteurs de recherche (Google, Bing)
+- https://instinctdivin.com/rss.xml -> Flux RSS 2.0 officiel des actualités, créations et sessions de formation
+- https://instinctdivin.com/llms.txt -> Fiche synthétique d'identité et contexte pour LLMs (ChatGPT, Gemini, Perplexity, Claude)
 
 Présentation de l'établissement:
 - Nom officiel: INSTINCT DIVIN
-- Alias: instinctdivin, Instinct Divin, Instinct Divin Cotonou, Pâtisserie Instinct Divin
-- Activité: Pâtisserie artisanale d'excellence, gâteaux personnalisés, viennoiseries pur beurre, traiteur événementiel et centre de formation professionnelle en pâtisserie-boulangerie.
-- Localisation: Rue 1114, Cotonou, Bénin.
-- Téléphone & WhatsApp: +229 01 66 48 75 65 (wa.me/2290166487565)
-- Email: instinctdivin2@gmail.com
-- Horaires d'ouverture: Ouvert 7j/7, de 07h00 à 21h00 sans interruption.
-- Zone de livraison: Cotonou, Calavi et agglomération.
-- Monnaie: Franc CFA (XOF).
-- Paiements acceptés: Cash à la livraison/au comptoir, Mobile Money (MTN MoMo, Moov Money), virement bancaire.
+- Alias & Dénominations de recherche: instinctdivin, Instinct Divin, Instinct Divin Cotonou, Pâtisserie Instinct Divin, Pâtisserie Bénin, Pâtisserie artisanale Cotonou
+- Activité principale: Pâtisserie artisanale d'excellence, gâteaux d'anniversaire personnalisés, pièces montées de mariage, viennoiseries pur beurre fraîches du jour, traiteur événementiel salé/sucré, centre de formation professionnelle en pâtisserie et boulangerie.
+- Localisation physique: Rue 1114, Cotonou, Département du Littoral, République du Bénin. (Proche Abattoir et Église Ste de l'Enfant).
+- Coordonnées:
+  - Téléphone direct: +229 01 66 48 75 65
+  - WhatsApp Business (Commandes & Devis): https://wa.me/2290166487565 (+229 01 66 48 75 65)
+  - Email: instinctdivin2@gmail.com
+- Horaires d'ouverture: Ouvert 7 jours sur 7, de 07h00 à 21h00 sans interruption.
+- Zones de livraison:
+  - Cotonou intra-muros : Haie Vive, Cadjèhoun, Fidjrossè, Akpakpa, Ganhi, Maro-Militaire, Patte d'Oie, Sainte-Rita, Gbégamey, etc.
+  - Périphérie & Agglomération : Abomey-Calavi, Godomey, Ouidah.
+- Commandes à distance & Service Diaspora:
+  - Les membres de la diaspora béninoise et africaine résidant à l'étranger (France, Canada, États-Unis, Côte d'Ivoire, Sénégal, etc.) peuvent commander directement sur WhatsApp (+229 01 66 48 75 65) pour faire livrer un gâteau d'anniversaire, un gâteau de mariage ou une box de douceurs à leurs proches, parents et partenaires à Cotonou et Calavi.
+  - Paiements acceptés à distance et sur place: Mobile Money (MTN MoMo, Moov Money), virement bancaire, espèces au comptoir ou à la livraison. Devise: Franc CFA (XOF).
 
 Pages et itinéraires du site (Human routes):
-- Accueil & Carte pâtisserie: https://instinctdivin.com/
+- Accueil & Carte pâtisserie complète: https://instinctdivin.com/
+  - Créations signatures: https://instinctdivin.com/#selection
+  - Carte & Tarifs en FCFA: https://instinctdivin.com/#carte
+  - Mariages & Événements prestige: https://instinctdivin.com/#evenements
+  - L'atelier & Savoir-faire béninois: https://instinctdivin.com/#histoire
+  - Questions fréquentes (FAQ): https://instinctdivin.com/#faq
+  - Localisation, Horaires & Livraison: https://instinctdivin.com/#contact
 - Centre de Formation Pâtisserie & Boulangerie: https://instinctdivin.com/formation.html
 - Conditions de commande, délais & livraisons: https://instinctdivin.com/conditions-commandes.html
 - Mentions légales: https://instinctdivin.com/mentions-legales.html
 - Politique de confidentialité: https://instinctdivin.com/politique-confidentialite.html
 
-Offre Produits & Carte des Tarifs (prix en FCFA):
-1. Gâteaux d'anniversaire personnalisés:
-   - Gâteau 7 000 FCFA : petit format soigné
-   - Gâteau 10 000 FCFA : décor rose délicat et finitions soignées
-   - Gâteau 15 000 FCFA : chocolat intense, génoise moelleuse
-   - Gâteau 20 000 FCFA : décor raffiné, finitions dorées
-   - Gâteau 25 000 FCFA : grand format avec décor élaboré
-   - Gâteaux avec impression photo alimentaire : 25 000 à 30 000 FCFA
+Offre Produits & Grille Tarifaire Officielle (prix en FCFA):
+1. Gâteaux d'anniversaire personnalisés & Thématiques:
+   - Gâteau 7 000 FCFA : format individuel/familial soigné avec message personnalisé
+   - Gâteau 10 000 FCFA : décor soigné, finitions crème délicates
+   - Gâteau 15 000 FCFA : chocolat intense, génoise moelleuse, garniture généreuse
+   - Gâteau 20 000 FCFA : décor raffiné, motifs festifs et finitions dorées
+   - Gâteau 25 000 FCFA : grand format festif avec décor élaboré
+   - Gâteaux avec impression photo alimentaire comestible : 25 000 et 30 000 FCFA (photo de l'enfant, mariés, logo d'entreprise)
 
-2. Gâteaux de mariage & Réceptions prestige:
-   - Gâteau première communion : 20 000 FCFA
+2. Gâteaux de mariage, Réceptions & Pièces montées d'exception:
+   - Gâteau première communion & cérémonie : 20 000 FCFA
    - Gâteau de mariage Prestige (2 étages) : 40 000 FCFA
-   - Pièce montée prestige : 50 000 FCFA
-   - Pièce d'exception et buffet événementiel : jusqu'à 80 000 FCFA et devis sur mesure
+   - Pièce montée prestige (décor floral, étages travaillés) : 50 000 FCFA
+   - Pièce montée d'exception haute couture : 80 000 FCFA et devis sur mesure sur WhatsApp
 
-3. Viennoiseries pur beurre & Boulangerie:
+3. Viennoiseries pur beurre & Boulangerie fraîche:
    - Mini pain viennois : 75 FCFA
-   - Pain viennois : 150 FCFA
-   - Pain burger artisanal sésame : 300 FCFA
-   - Croissant classique : 500 FCFA
+   - Pain viennois fondant : 150 FCFA
+   - Pain burger artisanal aux graines de sésame : 300 FCFA
    - Croissant pur beurre doré : 600 FCFA
-   - Douceurs individuelles et friandises : 400 FCFA
-   - Forêt Noire signature : 12 000 FCFA
-
-4. Traiteur salé & Cocktails:
-   - Samoussas croustillants (pack) : 7 000 FCFA
-   - Pastels dorés faits maison (pack) : 7 000 FCFA
-   - Feuilletés cœur de palmier : 6 000 FCFA
-   - Box petits fours sucrés/salés : 12 000 FCFA
-   - Pack cocktail apéritif : 7 500 FCFA
-   - Mini burgers cocktail : 800 FCFA / unité
+   - Douceurs individuelles et friandises du jour : 400 FCFA
    - Crêpes gourmandes au chocolat : 300 FCFA
+   - Forêt Noire signature de la maison (chocolat, chantilly, griottes) : 12 000 FCFA
+
+4. Traiteur salé, Apéritifs & Cocktails dînatoires:
+   - Samoussas croustillants au bœuf ou légumes (le pack) : 7 000 FCFA
+   - Pastels dorés faits maison (le pack) : 7 000 FCFA
+   - Feuilletés salés au cœur de palmier : 6 000 FCFA
+   - Pack cocktail apéritif : 7 500 FCFA
+   - Box spéciale petits fours gourmands sucrés/salés : 12 000 FCFA
+   - Mini burgers cocktail pour buffet : 800 FCFA / unité
 
 5. Pôle Formation Professionnelle:
-   - Cursus complet en pâtisserie & boulangerie artisanale (pratique en atelier, techniques des pâtes, crèmes, entremets, viennoiseries, décors, hygiène).
-   - Ateliers week-end & masterclasses spécialisées.
-   - Inscriptions directes via WhatsApp: +229 01 66 48 75 65.
+   - Initiation & ateliers week-end : les bases des pâtes, crèmes et décors.
+   - Formation professionnelle certifiante : cursus intensif 100% pratique en laboratoire, pâtisserie, boulangerie artisanale, viennoiserie, cuisine traiteur.
+   - Masterclasses spécialisées : perfectionnement pour professionnels du secteur.
+   - Contact inscriptions: WhatsApp +229 01 66 48 75 65.
 
-Prise de commande:
-- Commande par WhatsApp recommandée: envoyer photo d'inspiration, date de l'événement et nombre de parts au +229 01 66 48 75 65.
-- Délais minimums: 24h à 48h pour les gâteaux personnalisés, 72h pour les pièces montées de mariage.
+Modalités de commande:
+- Commande par WhatsApp en direct: envoyer photo d'inspiration, date souhaitée et nombre de parts au +229 01 66 48 75 65.
+- Délais recommandés: 24h à 48h pour gâteaux personnalisés, 72h minimum pour les pièces montées de mariage.
 
 Réseaux sociaux & Profils vérifiés:
 - Google Maps (Fiche Établissement): https://maps.app.goo.gl/5irE1LpfZJMFtZVR9
