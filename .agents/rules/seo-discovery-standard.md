@@ -37,3 +37,8 @@ Chaque site généré doit comporter à sa racine :
 Avant de finaliser :
 - Valider le format XML de `rss.xml` et `sitemap.xml`.
 - Valider le format JSON du balisage Schema.org JSON-LD.
+
+## 6. Technique du Sur-titre SEO & Découverte Locale
+- **Préservation de l'élégance éditoriale** : Pour positionner les sections sur des requêtes génériques ciblées sans alourdir le design, utiliser la technique du Sur-titre SEO : le mot-clé pur est placé dans un sur-titre `<h2 class="eyebrow">` (majuscules dorées fines) et le titre poétique est conservé dans `<p class="editorial-heading">`.
+- **Ancrage géographique & diaspora** : Mentionner explicitement les quartiers clés, les villes voisines et les commandes à distance pour la diaspora (WhatsApp / Mobile Money).
+- **Alimentation des moteurs IA (SGE / AI Overviews)** : Intégrer un balisage Schema.org `FAQPage` dans le `@graph` JSON-LD pour capturer la longue traîne conversationnelle.

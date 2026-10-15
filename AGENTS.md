@@ -13,6 +13,8 @@ Ce document constitue la **base de règles permanente** du projet. Il consigne l
 | **Absence de désambiguïsation d'entité** | En cas d'homonymie avec un concept philosophique ou culturel, Google hésite et met en avant une page Facebook tiers. | **Schema.org enrichi** :<br>Ajouter `alternateName` (collé, avec espace, régional) et `disambiguatingDescription`. |
 | **Aucune surface de découverte pour les IA** | Les assistants (ChatGPT Search, Perplexity, Gemini, Claude) ignorent la carte et les tarifs réels. | **Création systématique du pack IA** :<br>`llms.txt`, `sitemap.md`, `rss.xml` + liens footer. |
 | **`robots.txt` et `sitemap.xml` non synchronisés** | Bots d'exploration et moteurs IA ne découvrent pas rapidement les nouvelles sections. | Pointeur vers le sitemap XML et les fichiers IA déclarés dans `robots.txt`. |
+| **Dilemme Titres poétiques vs Mots-clés SEO** | Les titres poétiques privent Googlebot de mots-clés structurants (`pâtisserie locale`, `gâteau d'anniversaire`) tandis que des titres lourds cassent le ton luxe. | **Technique du Sur-titre SEO** : Utiliser `<h2 class="eyebrow">` (petit, majuscules, doré) pour le mot-clé pur et garder la phrase poétique dans `<p class="editorial-heading">`. |
+| **Absence d'ancrage géographique large & diaspora** | Les requêtes nationales (`pâtisserie bénin`) ou diaspora (commandes depuis l'étranger pour proches au pays) ne trouvent pas de prise sémantique. | **Balisage `FAQPage` + Ancrage quartiers & diaspora** : Citer explicitement les quartiers (Haie Vive, Cadjèhoun, etc.) et intégrer FAQPage dans `@graph` pour alimenter Google AI Overviews. |
 
 ---
 
